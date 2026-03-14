@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Tanmaya
 
-<!--
-**tanmayakumarsahu/tanmayakumarsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+📊 Interested in Data Analytics and data-driven problem solving  
+💡 Passionate about exploring data, extracting insights, and building practical tech projects.
 
-Here are some ideas to get you started:
+Currently focused on strengthening my knowledge in **Data Analytics, Python, and Data Visualization**, while also improving my **problem-solving skills through Data Structures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Data Analytics Skills
+- **Languages:** Python, SQL (learning)
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib (learning)
+- **Data Skills:** Data Cleaning, Data Analysis, Data Visualization
+- **Tools:** Excel, Git, GitHub, VS Code
+
+---
+
+## 💻 Additional Skills
+- **Programming:** Python, Java, C++
+- **Web Development:** HTML, CSS, JavaScript
+
+---
+
+## 📂 Projects
+My repositories contain projects related to **programming practice and data-related learning**, along with a few projects built during my **web development learning journey**.
+
+Some example projects include:
+- Student Management System
+- Portfolio Website
+- ToDo App
+
+More **data analytics and data-focused projects** will continue to be added as I expand my skills.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/tanmaya-kumar-sahu-aa3244348
+- Email: tanmaya3230@gmail.com
