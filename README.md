@@ -17,7 +17,7 @@ Currently focused on strengthening my knowledge in **Data Analytics, Python, and
 ---
 
 ## 💻 Additional Skills
-- **Programming:** Python, Java, C++
+- **Programming:** Python, Java , C
 - **Web Development:** HTML, CSS, JavaScript
 
 ---
