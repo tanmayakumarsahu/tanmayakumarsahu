@@ -4,7 +4,7 @@
 📊 Interested in Data Analytics and data-driven problem solving  
 💡 Passionate about exploring data, extracting insights, and building practical tech projects.
 
-Currently focused on strengthening my knowledge in **Data Analytics, Python, and Data Visualization**, while also improving my **problem-solving skills through Data Structures**.
+Currently focusing on strengthening my knowledge in **Data Analytics, Python, and Data Visualization**, while also improving my **problem-solving skills through Data Structures**.
 
 ---
 
@@ -17,23 +17,17 @@ Currently focused on strengthening my knowledge in **Data Analytics, Python, and
 ---
 
 ## 💻 Additional Skills
-- **Programming:** Python, Java , C
+- **Programming:** Python, Java, C
 - **Web Development:** HTML, CSS, JavaScript
 
 ---
 
 ## 📂 Projects
-My repositories contain projects related to **programming practice and data-related learning**, along with a few projects built during my **web development learning journey**.
-
-Some example projects include:
-- Student Management System
-- Portfolio Website
-- ToDo App
-
-More **data analytics and data-focused projects** will continue to be added as I expand my skills.
+Projects are currently **in progress and will be updated soon**.  
+My repositories will include work related to **Data Analytics, programming practice, and a few projects from my web development learning journey**.
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/tanmaya-kumar-sahu-aa3244348
+- LinkedIn: www.linkedin.com/in/tanmaya-kumar-sahu-aa3244348  
 - Email: tanmaya3230@gmail.com
